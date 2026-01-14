@@ -37,16 +37,3 @@ testing practices.
 **Test Management & Collaboration**  
 - Jira, Xray, Zephyr, TestRail  
 - Git, GitHub  
-
----
-
-## 📫 How to reach me
-- 📍 Boca Raton, FL (Authorized to work in the U.S.)  
-- 📧 Email: cansu.ceker.te@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-linkedin-profile  
-
-Fun Facts:
-I have two cats
-I don’t like coffee or tea
-Demon Slayer is my favorite anime
-Hobbies: anime, gym, building things
