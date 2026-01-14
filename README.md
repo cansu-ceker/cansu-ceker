@@ -3,7 +3,7 @@
 ISTQB-certified QA Automation Engineer with 5+ years of experience
 in manual and automated testing, API testing and CI/CD pipelines.
 I specialize in building reliable test frameworks using Java, Selenium,
-and Cucumbe, and I enjoy improving software quality through strong
+and Cucumber and I enjoy improving software quality through strong
 testing practices.
 
 ---
